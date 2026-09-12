@@ -1,0 +1,21 @@
+{
+  "name": "network-security-port-scanner",
+  "version": "1.0.0",
+  "description": "Multi-threaded Network Security Port Scanner with Banner Grabbing & Service Detection",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py",
+    "dev": "python app.py",
+    "cli": "python cli.py"
+  },
+  "keywords": [
+    "network-security",
+    "port-scanner",
+    "multi-threaded",
+    "banner-grabbing",
+    "service-detection",
+    "cybersecurity"
+  ],
+  "author": "sindhumuniganti08",
+  "license": "MIT"
+}
